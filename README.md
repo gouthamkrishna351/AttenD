@@ -1,6 +1,6 @@
-# attend2
+# attend
 
-A new Flutter project.
+A  Flutter project.
 
 ## Getting Started
 
